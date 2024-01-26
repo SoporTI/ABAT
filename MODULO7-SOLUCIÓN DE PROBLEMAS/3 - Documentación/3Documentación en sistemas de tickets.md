@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/THef0nOc9XI)
+
 Ahora que ya hemos hablado un poco
 acerca de los procesos de documentación, hablemos sobre cómo escribirás la documentación
 en un sistema de seguimiento de incidentes. No tienes que dejar un ejemplo

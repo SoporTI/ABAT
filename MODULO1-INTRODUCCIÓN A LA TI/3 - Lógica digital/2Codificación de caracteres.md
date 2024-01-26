@@ -1,3 +1,7 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/7aqeC_H6PXY)
+
+
 # Fundamentos de la Computación: Codificación de Caracteres y Modelos de Color
 
  ¿Recuerdas del video anterior que un byte solo puede almacenar ceros y unos? Eso significa que podemos tener 256 valores posibles. Al final de este video aprenderás cómo podemos representar palabras, números, emojis y muchas cosas más que vemos en nuestras pantallas, con solo estos 256 valores posibles. Todo gracias a la codificación de caracteres.

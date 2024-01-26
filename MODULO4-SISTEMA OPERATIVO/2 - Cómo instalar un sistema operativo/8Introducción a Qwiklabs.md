@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/5DWJTFsRTA4)
+
 Estás a punto de hacer algunos ejercicios usando la plataforma de aprendizaje en línea Qwiklabs, con la tecnología de Google Cloud Console. Antes de ver eso en profundidad, aprendamos un poco más sobre la plataforma.
 
 Qwiklabs es un entorno de aprendizaje en línea que te propone situaciones reales en vivo que puedes encontrar como especialista en soporte de TI. Qwiklabs trabaja con Google Cloud Console para iniciar o crear máquinas virtuales. Como dijimos anteriormente, una máquina virtual o VM, simula computadoras mediante software. Esta máquina virtual se ejecutará en Linux o Windows, dependiendo del ejercicio. Qwiklabs admite ambos. De esta manera, puedes aprender a trabajar en cualquier SO, sin importar el sistema operativo que estés ejecutando en tu máquina.

@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/bjYB1Kbm_Sk)
+
 Poder establecer conexiones remotas es igual de útil en computadoras con Windows.
 PuTTY es un software gratis de código abierto que puedes usar para crear conexiones remotas a través de varios protocolos de redes, incluido SSH. Visita el sitio web de PuTTY para descargar el paquete de software con el instalador de Microsoft. Esos son los archivos MSI que mencionamos antes. O puedes elegir un ejecutable específico que brinde las funciones que necesitas como PuTTY.exe. La página de descargas de PuTTY está vinculada en la siguiente lectura por si quieres visitarla.
 

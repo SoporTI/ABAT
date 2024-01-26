@@ -1,3 +1,7 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/ecUA9iK_SnQ)
+
+
 # Introducción al Programa
 
 Hay un gran problema en el mundo ahora mismo. Hay cientos de miles de trabajos de soporte de TI esperando por candidatos calificados para llenar esos puestos. Están disponibles en este mismo momento y existen compañías grande y pequeñas que realmente quieren contratar personas motivadas. Con la tecnología filtrándose en casi todos los aspectos de los negocios, y está creciendo a cada segundo, pero eso es sólo la mitad de la historia.

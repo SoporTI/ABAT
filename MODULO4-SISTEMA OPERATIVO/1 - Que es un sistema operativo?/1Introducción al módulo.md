@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/vU3acnVidWA)
+
 # Bienvenido de nuevo
 
 Has aprendido acerca de los fundamentos de la informática con el sistema binario y la capa de hardware de la arquitectura de un ordenador. Ahora, es momento de pasar a la siguiente capa, el sistema operativo.

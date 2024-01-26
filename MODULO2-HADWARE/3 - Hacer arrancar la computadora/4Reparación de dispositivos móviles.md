@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/MvUnj1vIyvk)
+
 Reparación de Dispositivos Móviles
 Reparar un dispositivo móvil es diferente de reparar una computadora más grande y genérica. Para empezar, hay miles de tipos de dispositivos móviles, lo que hace imposible explicar todas las diferencias aquí. Sin embargo, examinaremos herramientas y técnicas para mantener en funcionamiento los dispositivos móviles de tu organización.
 

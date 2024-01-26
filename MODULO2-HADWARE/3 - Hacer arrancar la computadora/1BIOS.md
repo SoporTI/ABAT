@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/Y8-J1QyP6lg)
+
 ### Comunicación y Configuración
 
 Bien, ya vimos todos los componentes clave para que nuestra computadora funcione. Lo último que vamos a repasar es cómo se comunican nuestros dispositivos entre sí. Sabemos que los programas se ejecutan desde nuestro disco duro a nuestra CPU, pero ¿cómo se envían otras cosas, como un clic del mouse o una pulsación del teclado, a nuestra CPU para su procesamiento? Estos son dispositivos bastante básicos, no contienen instrucciones que nuestra CPU deba saber leer. Si acabas de pulsar una tecla en tu teclado, sólo estarías enviando un byte a la CPU. La CPU no sabe qué es esto porque no tiene instrucciones sobre cómo manejar eso. Resulta que nuestros dispositivos también usan programas para indicarle a la CPU cómo ejecutarlos. Estos programas se llaman servicios o controladores. Los controladores contienen las instrucciones que nuestra CPU necesita para entender a los dispositivos externos como teclados, cámaras web, impresoras.

@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/BrLVj6G-XMI)
+
 Prepárate, porque en este video
 vamos a instalar un programa llamado Git. Git es un sistema de control de versiones que nos permite
 hacer un seguimiento de los cambios realizados en archivos y directorios. Así como algunos procesadores de texto hoy tienen

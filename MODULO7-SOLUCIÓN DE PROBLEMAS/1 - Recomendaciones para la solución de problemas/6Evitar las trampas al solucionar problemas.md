@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/bWxn5JIZ_EQ)
+
 Tu has adquirido muchas habilidades para
 diagnosticar problemas fundamentales Pero existen algunas trampas comunes
 que debes tratar de evitar con objeto de dominar el juego

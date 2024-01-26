@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/DQCR_iq_c9c)
+
 Hay un montón de diferentes maneras de
 utilizar el Internet, ya lo sabemos. Pero quiero cubrir una de las formas más
 frecuentes que las personas usan para acceder al internet, a través de la web. Todos los sitios web pueden

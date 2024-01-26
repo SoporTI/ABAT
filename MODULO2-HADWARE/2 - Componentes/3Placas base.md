@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/3w6zUfB7-Xo)
+
 ## La Placa Base
 
 La **placa base** es, valga la redundancia, la base que mantiene unida nuestra computadora. Nos permite ampliar la funcionalidad de nuestra computadora por medio de tarjetas de expansión. Encamina la energía desde la fuente de alimentación y permite que las diferentes piezas de la computadora se comuniquen entre sí. En resumen, es quien manda.

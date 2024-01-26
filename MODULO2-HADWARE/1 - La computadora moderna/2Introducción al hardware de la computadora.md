@@ -1,3 +1,7 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/BRgQWPJ1Gd4)
+
+ 
  Aceptemoslo, las computadoras están en todos lados. Tu entras en contacto con ellas en casa, trabajo, aeropuerto, la tienda de comestibles. Tú estás, por ejemplo, usando algún tipo de computadora para tomar este curso.
 
  "¿Saben qué?" Probablemente hay una en tu bolsillo ahora mismo. Mientras que las computadoras son complejas y pueden parecer difíciles de aprender, estas, en última instancia, solo calculan, procesan y almacenan datos.

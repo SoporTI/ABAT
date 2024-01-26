@@ -1,3 +1,7 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/uAOP2hi5V8U)
+
+
 Hola, soy yo otra vez. Tal vez me recuerdes del módulo anterior, pero no te preocupes si no es así. Lo que importa es que estoy aquí ahora. Hicimos cambios en el programa para asegurarnos de que tengas la información más actual sobre dispositivos móviles. Me verás nuevamente durante el programa. Presta atención cuando me veas.
 Dispositivos Móviles
 Hablemos sobre los dispositivos móviles. Los dispositivos móviles también son computadoras, tienen CPU, RAM, almacenamiento, fuentes de alimentación y periféricos. ¿En qué se diferencian de un servidor, una computadora de escritorio o una laptop? Son especiales porque son móviles. Son portables y obtienen energía de baterías.

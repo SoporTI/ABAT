@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/P7NuNXLVeWI)
+
 Anteriormente en este curso
 hemos hablado acerca de cómo los programas son instrucciones que se dan a la CPU. Podemos enviar código binario o bits a nuestras CPUs, que luego usarán un conjunto de
 instrucciones para ejecutar esos comandos. Pero estas CPUs pueden proceder de diferentes

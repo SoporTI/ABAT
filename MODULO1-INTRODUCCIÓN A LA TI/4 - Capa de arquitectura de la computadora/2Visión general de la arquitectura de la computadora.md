@@ -1,3 +1,7 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/rHMC5SCq3do)
+
+
 # Capas de la Arquitectura de Computadores
 
 En el último video, mencioné que la gente no necesita entender cómo funciona una computadora para que se haga uso de la misma, porque la abstracción simplifica las cosas para nosotros. Eso es técnicamente cierto, pero dado que tú te estás introduciendo en el mundo de TI, necesitas entender todas las capas de una computadora y cómo funcionan. Es esencial que comprendas cómo las diferentes piezas interactúan para que puedas resolver cualquier problema que pueda surgir.

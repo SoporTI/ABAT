@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/uGQ8RWkA8hI)
+
 Recuerda que cuando un proceso corre, éste necesita tiempo de CPU, pero también necesita memoria. Cuando los procesos corren, tienen que tomar más espacio en la memoria, de tal forma que la computadora los pueda leer y cargar rápidamente.
 
 Sin embargo, comparado con nuestros discos duros, la memoria llega en cantidades pequeñas. Así que, para obtener más memoria como la que hay físicamente, usamos algo llamado **memoria virtual**. La memoria virtual es una combinación de espacio de disco duro y RAM que actúan como memoria para que nuestros procesos la puedan usar.

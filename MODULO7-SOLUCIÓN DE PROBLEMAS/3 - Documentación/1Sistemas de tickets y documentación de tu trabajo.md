@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/94ETw-3PRdM)
+
 ¿Alguna vez has trabajado duro
 en algo que tenía un montón de pasos y te llevó mucho tiempo, solo para tener que
 volver a hacerlo tres meses después? ¿Y habías olvidado por completo todo lo que hiciste? Bueno, eso pasa constantemente en el mundo de la T.I. Por eso es importante documentar el trabajo que haces. Documentar podría parecer una pérdida de

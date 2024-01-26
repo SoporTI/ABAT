@@ -1,3 +1,7 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/yA7P2Qzut-s)
+
+
 # Fundamentos de la Computación: Generación de Unos y Ceros
 
  Te preguntarás cómo nuestros ordenadores consiguen los unos y ceros. Es una gran pregunta.

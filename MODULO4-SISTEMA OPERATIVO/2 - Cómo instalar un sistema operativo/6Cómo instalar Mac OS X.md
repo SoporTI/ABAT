@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/ajh6Eq00O2I)
+
 El último sistema operativo que revisaremos es el sistema operativo Mac de Apple. No entraremos en demasiados detalles sobre cómo usar este sistema operativo. En cambio, nos centraremos en las entradas y salidas de los sistemas operativos de Windows y de Linux. Pero si conoces un sistema operativo, podrás navegar en cualquier sistema operativo.
 
 Afortunadamente, todos los equipos de Apple vienen con el sistema operativo Mac preinstalado, por lo que sólo revisaremos las partes importantes del sistema operativo.

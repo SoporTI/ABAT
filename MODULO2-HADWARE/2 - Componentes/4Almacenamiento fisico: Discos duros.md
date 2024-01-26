@@ -1,3 +1,7 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/LxnMtsTu6z0)
+
+
 ### Introducción a las Métricas de Almacenamiento
 
 Antes de adentrarnos en el almacenamiento de una computadora, necesitamos rellenar algunos vacíos. Me estoy refiriendo a cosas como **Gigabytes**, **bits**, etc. pero en realidad no hemos hablado en absoluto sobre lo que estas métricas significan. Lo siento, parece que me estoy adelantando un poco. Como habrás adivinado, estos términos se refieren al tamaño de datos. La unidad mas pequeña de almacenamiento es el **bit**. Un bit puede guardar un dígito binario, es decir, cero o uno. La unidad siguiente es el **byte** que esta formado por 8 bits. Un solo byte puede almacenar una letra, numero o símbolo. La siguiente unidad se llama **kibibyte**, pero normalmente le llamamos **kilobyte**. Un kilobyte esta compuesto por 1024 bytes. Si eres curioso y deseas saber ¿por que un kilobyte tiene 1024 bytes en lugar de 1000 bytes? podrás leer sobre esto en la próxima lectura suplementaria. Mientras tanto, te presento aquí un cuadro de conversión rápida.

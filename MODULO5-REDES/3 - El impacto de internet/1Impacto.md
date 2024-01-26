@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/rGNrixLa06g)
+
 No hay duda de que Internet ha hecho mucho más fácil para nosotros conectar
 con nuestros amigos y familiares. Pero también ha hecho más fácil
 conectar con todos los demás en el mundo. Ya no estamos limitados a nuestros vecindarios. Hace décadas, si querías vender algo,

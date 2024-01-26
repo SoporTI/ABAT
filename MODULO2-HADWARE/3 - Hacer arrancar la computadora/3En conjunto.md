@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/Pcx5jFMrXUM)
+
 Ahora que aprendimos
 cuáles son los componentes de una computadora y cómo funcionan, vamos a armar nuestra propia computadora,
 un equipo de escritorio de tamaño completo. Las computadoras son increíblemente fundamentales

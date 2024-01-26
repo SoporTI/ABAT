@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/WEuZ9kg36Rk)
+
 Ahora que vimos las principales técnicas
 de atención al cliente, vamos a profundizar en algunos de los detalles esenciales
 estudiando la anatomía de una interacción. Estos detalles aplican a cualquier canal de soporte de TI:

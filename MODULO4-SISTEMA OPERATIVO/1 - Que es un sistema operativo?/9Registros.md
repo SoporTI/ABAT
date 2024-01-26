@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/g9gdEbQ_WlA)
+
 Imagina esta situación: estás jugando tu videojuego favorito y por fin llegas al jefe final. Te llevó incontables horas encontrar a este jefe, y descuidaste todas tus demás responsabilidades como el trabajo, la escuela, incluso tu higiene. Es bastante desagradable, pero lo entiendo. Estás a punto de matar al jefe final, cuando, de repente, tu consola de juego se apaga por completo. Tal vez enloqueciste un segundo, pero entonces recuerdas, está bien, habías guardado el juego antes de que apareciera el jefe. Ahora puedes volver a encenderla y estarás en el mismo lugar. Pero, entonces, tu consola se apaga de nuevo. Esto sucede una y otra vez. Al igual que la mayoría de las personas, estás devastado. Vuelas en un ataque de rabia. Pero entonces, justo antes de arrojar la consola, haces un esfuerzo desesperado y gritas: "¡Dime qué te pasa!". De repente, escuchas una débil voz que te dice lo que quieres escuchar.
 
 ¿No sería increíble? Claro, esa situación era un poco exagerada, pero lo que quiero decir es que nuestras computadoras realmente pueden hablarnos y decirnos qué está mal. Tal vez no nos susurren respuestas, pero nos hablan en forma de **registros**.

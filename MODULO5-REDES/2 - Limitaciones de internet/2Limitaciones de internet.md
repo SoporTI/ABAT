@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/MAQD4wJyTcw)
+
 Hemos mencionado mucho las direcciones IP en este curso, pero realmente no hemos entrado en detalle sobre ellas. Realmente hay diferentes versiones de direcciones IP. El actual protocolo, el Protocolo de Internet versión 4 o IPv4 es una dirección que consta de 32 bits separados en cuatro grupos. Recuerda, 42 bits son cuatro bytes y un byte puede almacenar hasta 256 valores, de 0 a 255. Así que las direcciones IPv4 pueden ser algo como 73.55.242.3. Aunque puede parecer un montón de posibles direcciones IPv4, hay menos de 4,3 billones de direcciones IPv4. Hay mucho más de más de 4,3 billones
 de sitios web que en la web hoy en día. Algunas direcciones IPv4 incluso están
 reservadas para propósitos especiales. Así que el número de direcciones IP utilizable es incluso menor. Un dispositivo que quiere conectarse a internet, debe tener una dirección IP, pero los dispositivos de todo el mundo ya han superado esos números. Entonces, ¿de dónde hemos estado obteniendo direcciones IP? Las direcciones IP han sido capaces de mantenerse

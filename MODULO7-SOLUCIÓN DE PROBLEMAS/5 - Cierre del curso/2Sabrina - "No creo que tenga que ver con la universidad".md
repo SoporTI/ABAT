@@ -1,4 +1,7 @@
-[MÚSICA] La tecnología puede abrir puertas y te permite lograr cosas
+> [!TIP]  
+> [Ver video](https://youtu.be/QHv7M8rUEHU)
+
+La tecnología puede abrir puertas y te permite lograr cosas
 que ni siquiera esperabas. Cuando era niña, nunca imaginé
 que me dedicaría a la tecnología. Ni siquiera pensaba
 en ir a la universidad No creo que tenga que ver con la universidad. Creo que tienes que estar

@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/Ej9VUDRuQQw)
+
 En la última lección usted aprendió cómo un sistema operativo se arranca. Es un concepto importante que se debe entender debido a que te enfrentaras con la solucion a problemas de arranque del Sistema Operativo, en Soporte de TI.
 
 Ahora vamos a indicar y ejecutar los pasos para seleccionar e instalar un sistema operativo. Nos vamos a enfocar en sistemas operativos relacionados con IT. En primer lugar, vamos a hablar acerca de la decisión de cual sistema operativo instalar en un entorno de negocios. En segundo lugar, vamos a profundizar en el proceso general de instalación de un sistema operativo.

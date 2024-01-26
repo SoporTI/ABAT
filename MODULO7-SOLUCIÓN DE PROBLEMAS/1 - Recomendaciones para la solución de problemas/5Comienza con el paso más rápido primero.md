@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/slMkQ-pQlPg)
+
 Tenemos algunas grandes interrogantes
 para comprender nuestro problema. Hemos aislado nuestro problema a un área eficaz y
 echamos un vistazo a nuestras migas de galleta. Ahora, es momento de comenzar a solucionar el problema. En el mundo de I.T, así como en la vida, los problemas no siempre poseen una respuesta correcta. Cuando diagnosticas y resuelves un problema, estás básicamente intentando aislarlo hacia la causa principal. Para ayudarte a aislar un problema, necesitas intentar algunos pasos de reparación. Si no funcionan, puedes descartarlos como la causa. ¿Qué sigue ahora? Aquí es donde aparece el método Inicia-con-el-paso-más-rápido. Queremos llegar a la causa fundamental de forma efectiva. Pero algunas veces hay múltiples opciones que podemos

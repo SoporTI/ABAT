@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/OuSjY35WfeY)
+
 Hola, mi nombre es Víctor Escobedo
 y soy ingeniero de operaciones corporativas. Estoy entusiasmado de pasar contigo
 las siguientes lecciones, antes de que mi colega y amigo Gian tome las riendas y cierre

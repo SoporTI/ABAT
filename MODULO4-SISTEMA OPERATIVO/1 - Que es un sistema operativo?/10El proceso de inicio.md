@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/hTqzv82Efds)
+
 En esta lección, vamos a aprender cómo se inicia nuestro sistema operativo. Como especialista en soporte de TI, probablemente trabajes con muchas computadoras que no arrancan. Es importante que conozcas los pasos que toma un sistema operativo. Así, podrás diagnosticar qué problema sufre.
 
 La palabra "boot", que en inglés se usa para iniciar o encender una computadora, proviene de una frase que se traduce como "reponerse gracias al esfuerzo personal". Básicamente, significa empezar desde la nada y seguir una serie de pasos para llegar a un sistema completamente operativo.

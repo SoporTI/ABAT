@@ -1,3 +1,7 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/nM1jgvewpEU)
+
+
 ### Introducción a la Fuente de Alimentación
 
 Para que nuestra computadora funcione, démosle algo de energía. Las computadoras tienen una fuente de alimentación que convierte la electricidad, de voltios a algo utilizable. Hay dos tipos de electricidad: CC o corriente continua, que fluye en una dirección, y CA o corriente alterna, que cambia de dirección constantemente. Nuestras computadoras usan voltaje CC, entonces tenemos que tener una forma de convertir el voltaje CA de nuestra compañía de energía eléctrica en algo que podamos usar. Eso es lo que hace nuestra fuente de alimentación. Convierte la CA que obtenemos de la pared en alimentación CC de baja tensión que podemos usar y transmitir a través de nuestra computadora.

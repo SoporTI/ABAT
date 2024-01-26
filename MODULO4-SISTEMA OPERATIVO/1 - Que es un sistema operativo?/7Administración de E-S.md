@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/mCMExc3t8SI)
+
 Hasta aquí, aprendimos qué duro trabaja nuestro **kernel** al manejar archivos, gestionar el almacenamiento de archivos, hacer malabares con los diferentes procesos que se ejecutan en nuestra computadora, y asignar memoria.
 
 Otra tarea importante que nuestro kernel maneja, es la gestión de entrada y salida. Hablamos de los dispositivos que realizan entrada y salida de datos, como dispositivos de E/S. Entre ellos están nuestros monitores, teclados, mouse, discos duros, altavoces, auriculares Bluetooth, cámaras web y adaptadores de red. Nuestro kernel administra estos dispositivos de E/S.

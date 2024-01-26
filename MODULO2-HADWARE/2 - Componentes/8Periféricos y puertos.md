@@ -1,3 +1,7 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/FJcm7iSktZU)
+
+
 ### Periféricos y Conectores
 
 Volvamos a mirar la parte posterior de nuestra computadora. Aquí, verás muchos conectores o puertos. Podemos enchufar diferentes objetos como un mouse, un teclado y un monitor. Se los conoce como periféricos. Un periférico es, básicamente, cualquier cosa que conectes externamente a tu computadora y que le agregue funcionalidad.

@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/tTC-jSTpJfM)
+
 La única gran constante en la industria de la tecnología es su historia de cambio y la velocidad de esos cambios. Por lo tanto, no hay educación que le brinde a nadie las habilidades necesarias para una carrera completa. Entonces, eres curioso, llevas toda una vida de curiosidad y dedicación a aprender, porque las herramientas y la tecnología que usamos en esta industria siempre van a cambiar.
 
 Las grandes habilidades tecnológicas son muy importantes, pero lo importante de la tecnología es que sirve a las personas y a sus intereses. Te tiene que gustar la gente, te tiene que gustar ayudarla. Tienes que tener empatía y consideración por sus problemas. Eso es lo más importante.

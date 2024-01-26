@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/YUGzbWtN2FI)
+
 Algunos dispositivos móviles
 son artículos informáticos de uso general como las tablets o los smartphones. Otros, como monitores de fitness,
 libros electrónicos y relojes inteligentes se diseñaron para realizar

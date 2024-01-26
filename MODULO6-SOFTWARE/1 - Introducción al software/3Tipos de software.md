@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/l_Y-8KdP-9g)
+
 Cuando valoras contenido, creas una obra de arte, o diseñas algo, tu trabajo está
 protegido para su uso y distribución. Suele haber algunas excepciones
 según las leyes de tu país, pero, en general, los derechos de autor se utilizan al crear un trabajo original. La creación de software también

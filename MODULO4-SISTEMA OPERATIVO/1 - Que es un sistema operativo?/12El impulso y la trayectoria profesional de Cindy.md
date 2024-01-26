@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/JhmYJyvTOqQ)
+
 Yo diría que cuando empecé, pensaba que había dos tipos de trabajo que podría hacer. Podría ser administradora de sistemas o soporte de TI. Pero eso es completamente falso. Hay una gran cantidad de oportunidades en TI. Podrías especializarte en redes, en bases de datos o como ingeniería de confiabilidad. Yo diría que no importa si eres un chico, una chica o un extraterrestre, la TI es para todos. Tan solo es solucionar problemas con la tecnología. Cualquiera puede hacerlo. Conozco personas que están en TI y que tienen títulos en Artes y Humanidades o en Gastronomía y otras cosas. La gente llega a la TI desde todo tipo de formación.
 
 Siempre me he esforzado por ser diferente y, para mí, creo que eso solo era aprender habilidades. Por ejemplo, las adolescentes no usaban computadoras. Y yo, "Oh, no, tienes que usar una computadora". Las chicas no sabían conducir coches con caja de cambios manual. Voy a ir y aprender a conducir un coche con caja manual. ¿No saben andar en motocicleta? Yo también puedo hacer eso. Y me gusta aprender. Disfruto aprendiendo muchas cosas. Me gusta adquirir nuevas habilidades.

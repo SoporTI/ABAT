@@ -1,3 +1,7 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/RdDYc9RI-ZI)
+
+
 # Fundamentos de la Computación: De los Ábacos a las Computadoras Modernas
 
 Cuando escuchas la palabra "computadora", tal vez piensas en un enorme equipo de escritorio para juegos, con luces que parpadean. O quizás, en una laptop delgada y elegante. Estos dispositivos de lujo no son lo que la gente tenía en mente al crear las computadoras.

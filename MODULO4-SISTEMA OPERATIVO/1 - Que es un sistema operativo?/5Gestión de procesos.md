@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/bXU_H3pdFCk)
+
 Una de las tareas más importantes que realiza nuestro kernel es la Gestión de Procesos. Un proceso es un programa que se está ejecutando, como nuestro navegador o editor de texto. Un programa es una aplicación que podemos ejecutar, como Chrome. Tome nota de la diferencia.
 
 Podemos tener muchos procesos del mismo programa funcionando al mismo tiempo. Piensa en cuántas ventanas de Chrome puedes abrir. Todas son diferentes procesos para el mismo programa.

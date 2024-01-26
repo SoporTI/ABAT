@@ -1,3 +1,7 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/jUp2Y-HpuhA)
+
+
 # Evolución de las Computadoras: De la Máquina Analítica a los Smartphones
 
 En este video, vamos a aprender cómo enormes dispositivos como la máquina analítica crecieron —en realidad, se encogieron— hasta tomar la forma de los dispositivos que usamos hoy. El desarrollo de la computación ha crecido constantemente desde la invención de la máquina analítica, pero no dio un gran salto hacia adelante hasta la Segunda Guerra Mundial. En aquel entonces, la investigación en computación era muy costosa, los componentes electrónicos eran enormes y se necesitaban muchos de ellos para calcular cualquier cosa de valor. Esto también implicaba que las computadoras ocupaban un montón de espacio y muchas iniciativas no contaron con financiación suficiente y no pudieron avanzar.

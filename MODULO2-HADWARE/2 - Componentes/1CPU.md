@@ -1,3 +1,7 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/2H5wuGQyOrA)
+
+
 Aquí tienes el texto organizado con formato Markdown:
 
 Si alguien te pidiera que calcules la raíz cuadrada de 5,439,493... ¿harías la cuenta a mano? A menos que de verdad te encanten los tediosos problemas de matemáticas, probablemente usarías una calculadora. ¿Qué sucede con el sistema binario? Bueno, probablemente tampoco harías cálculos a mano en binario. En realidad, hay una calculadora muy potente dentro de las computadoras que procesa el binario por nosotros. Ya hablamos de esta calculadora en detalle. ¿Sabes qué es? Es la CPU, el cerebro de nuestra computadora.

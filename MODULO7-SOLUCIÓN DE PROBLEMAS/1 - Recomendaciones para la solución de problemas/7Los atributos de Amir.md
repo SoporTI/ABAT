@@ -1,1 +1,4 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/C_EkdKrnmp4)
+
 Son tres los atributos esenciales que revemos a la hora de contratar un candidato para el equipo de soporte de TI. Primero que nada, su pasión. El mundo de TI cambia todo el tiempo y para dominarlo y seguir aprendiendo, es necesario que lo hagas con pasión. Lo siguiente: habilidades de resolución de conflictos. No tendrás todas las respuestas a todas las preguntas que te preguntarán, lo cual está bien. Lo que sí debes tener es una estrategia y las herramientas y recursos para encontrar las respuestas que derriban los obstáculos de las tecnologías emergentes. Lo tercero es la comunicación. Trabajarás con muchos individuos. Y las habilidades interpersonales harán que te comuniques con ellos para ayudarlos y te asegures de que entiendes sus necesidades, es muy importante para ser exitoso en este rol y asegurarte de que su experiencia ha sido positiva.

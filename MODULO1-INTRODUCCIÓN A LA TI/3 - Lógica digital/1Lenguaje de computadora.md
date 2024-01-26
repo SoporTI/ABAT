@@ -1,3 +1,7 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/UIYpYr6TgGE)
+
+
 # Fundamentos de la Computación: El Sistema Binario
 
  ¿Recuerdas cuando dije que una computadora es un dispositivo que realiza cálculos para almacenar y procesar datos? Si tú estás creando una inteligencia artificial que pueda vencer a los humanos en el ajedrez, o algo más simple, como ejecutar un videojuego, a mayor disponibilidad de potencia de procesamiento, más cosas podrá lograr.

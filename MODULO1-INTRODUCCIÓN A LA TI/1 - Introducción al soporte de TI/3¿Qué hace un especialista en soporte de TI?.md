@@ -1,3 +1,7 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/eXOGg8rHfNw)
+
+
 # Trabajo Diario en Soporte de TI
 
 Bueno, varía una tonelada, basada en si haces soporte personal en sitio o de forma remota, y si el soporte es a un pequeño negocio o una empresa grande. Y realmente no hay tal cosa como el trabajo día a día, debido a que el rompecabezas y los retos son siempre nuevas e interesantes.

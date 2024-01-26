@@ -1,3 +1,7 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/HHu2obw7c2k)
+
+
 # La Revolución de la Computación en la Misión Apolo 11
 
 El 20 de julio de 1969, uno de los eventos más fenomenales quedó inscrito en los libros de historia cuando el Apolo 11 completó su histórica misión a la Luna. Mientras las mentes más brillantes ayudaban a asegurarse de que Eagle, el módulo lunar, aterrizara, las computadoras también desempeñaban un papel significativo. El sistema de guiado que dirigió la nave fue una de las primeras formas de computación moderna. Esa misma computadora, la que ayudó a que los sueños lunares de EE.UU. se hicieran realidad, ocupaba el espacio de una habitación entera y tenía una diezmilésima parte del poder de procesamiento del smartphone que casi todos ustedes llevan en sus bolsillos hoy.

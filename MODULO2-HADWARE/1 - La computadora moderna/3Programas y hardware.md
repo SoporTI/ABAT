@@ -1,3 +1,7 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/qMxNiS7j87M)
+
+
 Antes de ensuciarnos las manos con aprender a construir una computadora, hablemos primero de teoría. En una lección anterior, se habló de binario y cómo las computadoras realizan los cálculos. Recuerda que nuestra computadora solo puede comunicarse en binario usando unos y ceros. Nuestras computadoras hablan en lenguaje de máquinas, pero nosotros, por supuesto, hablamos en lenguajes humanos, como Inglés, Español, Mandarín, Hindi. Ya captas la idea. Si queremos comunicarnos con otras máquinas, tenemos que usar algún diccionario de traducción. Si yo quiero decir algo en español, lo busco en un diccionario Inglés - Español.
 
 Bien. Nuestras computadoras tienen incorporado su propio libro de traducciones. En esta lección, profundizaremos en cómo nuestra computadora traduce la información que le damos en instrucciones que entiende. Ahora mismo, quizá, estás utilizando un navegador web, un reproductor de música, un procesador de texto o algo más en la computadora. Interactuamos con estas aplicaciones a diario. Se les conoce como programas. Los programas son instrucciones básicas que le dicen a la computadora qué hacer.

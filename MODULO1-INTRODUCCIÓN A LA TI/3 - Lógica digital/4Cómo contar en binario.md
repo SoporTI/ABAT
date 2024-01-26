@@ -1,3 +1,7 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/oz8Q0woQDeg)
+
+
 # Fundamentos de la Computación: Contar en Binario
 
  El sistema binario es la base de la comunicación de las computadoras, pero se usa para representar algo más que texto e imágenes. Se usa en muchos aspectos de la computación como en redes de computadoras, lo que aprenderás en un curso posterior. Es importante que entiendas cómo las computadoras cuentan en binario.

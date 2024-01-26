@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/K4Sd7SuOn0M)
+
 Antes de empezar a instalar nuestro sistema operativo, necesitamos familiarizarnos con el concepto de máquinas virtuales, o VM. Una máquina virtual es solo una copia de una máquina real. ¿Por qué querrías eso? Hasta ahora, estuvimos trabajando con máquinas físicas, pero hay casos en el soporte de TI en los que necesitamos acceso a una máquina que no está físicamente frente a nosotros.
 
 Digamos que tengo una máquina con Windows y quiero aprender otro sistema operativo, como Linux. No quiero comprar otra computadora ni tener dos sistemas operativos separados en mi disco. En cambio, puedo usar una aplicación como Virtual Box para instalar Linux y tenerlo completamente aislado de mi máquina.

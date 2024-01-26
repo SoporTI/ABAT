@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/UKX3uWfkfKk)
+
 Ya vimos cómo se instala Windows. Ahora, vamos a instalar el sistema operativo Linux. ¿Recuerdas que dije que Linux tiene muchas versiones diferentes de su sistema operativo, a las que llamamos distribuciones? Hay innumerables artículos que destacan los pros y los contras de los cientos de distribuciones que existen. Vamos a optar por la distribución más popular entre usuarios comunes, Ubuntu. Ya cargué Ubuntu en una unidad USB común.
 
 Consejo: Como Ubuntu es de código abierto, puedes descargar la imagen de instalación del sistema operativo gratis directamente desde su sitio web, luego, la instalas con cualquier medio que te guste. Incluí un vínculo a él en la próxima lectura complementaria. También debería destacar que no puedes copiar el archivo de instalación en una unidad USB y esperar que funcione. Debe copiarse de manera que un dispositivo USB pueda iniciarse desde nuestro BIOS. Para cargar la imagen en tu dispositivo USB y hacer que se la pueda iniciar, puedes usar una herramienta como etcher.io. También puedes consultar el vínculo a la herramienta en la lectura, justo después de este video.

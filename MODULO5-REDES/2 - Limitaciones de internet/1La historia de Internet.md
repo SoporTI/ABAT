@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/3BXefqdboaI)
+
 Ya aprendiste qué es Internet y
 un poco sobre cómo funciona. Ahora, vamos a dar un paso atrás
 y a aprender por qué se creó. Pero antes de eso,

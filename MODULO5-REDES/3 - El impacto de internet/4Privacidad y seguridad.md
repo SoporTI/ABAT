@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/tSxT5lyPcPE)
+
 La mayor comodidad facilitada por Internet también hace más y más difícil para
 nosotros mantener el anonimato. Cuando compras algo en línea, tus hábitos de compra pueden ser registrados, y puedes ser blanco del marketing. Incluso cuando quieres hacer algo simple, como hacer una reserva para cenar, tu nombre, número de teléfono, correo electrónico, e incluso, tal vez, un número de
 tarjeta de crédito, son requeridos. Ahora piensa en la información que expones públicamente. Nombre, fotos, familia, amigos e incluso tu ubicación, pueden estar disponibles para

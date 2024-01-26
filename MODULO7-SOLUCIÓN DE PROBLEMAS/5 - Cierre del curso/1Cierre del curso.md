@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/QwMVbtyolj8)
+
 Al comienzo de este curso, te dijimos que todo lo que la computadora
 hace es calcular y procesar datos. También te dijimos que con esa simple función
 podemos publicar cosas en redes sociales, crear hermosos gráficos, escuchar música y mucho más. Bueno, en el poco tiempo que pasamos juntos, aprendiste cómo funciona todo este proceso. Eso es un logro increíble. Diste el primer paso en preparación para

@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/KlziTJGPm6Y)
+
 Imagina si tuvieras que guardar un solo archivo dentro de un armario. ¿Eso no tan malo, verdad? ¿Qué pasa si, en lugar de un archivo, tienes que almacenar 100.000? Puedes ver el problema? Pues bien, en nuestros ordenadores, nosotros fácilmente podemos almacenar cientos de miles de archivos, si no es que más. ¿Problema solucionado? No del todo, tenemos que ser capaces de hacer un seguimiento de todos estos archivos.
 
 El kernel del SO se encarga del almacenamiento de los archivos y del Sistema de archivos en nuestras máquinas. Y en esta lección vamos a profundizar un poco en cómo lo hace. Hay tres componentes principales para el manejo archivos en un sistema operativo: los datos de archivo, metadatos y el sistema de archivos.

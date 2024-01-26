@@ -1,3 +1,7 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/mLcaCeE7t6Q)
+
+
 # Abstracción en Informática: Simplificando lo Complejo
 
 Cuando interactuamos con nuestros equipos utilizamos el ratón, el teclado o incluso una pantalla táctil. No le decimos realmente los ceros y unos que necesita para entender algo. Espera... lo cierto es que sí. Lo que pasa es que nunca tenemos que preocuparnos por ello. Utilizamos el concepto de abstracción para coger un sistema relativamente complejo y simplificarlo para nuestro uso. Usas la abstracción cada día en el mundo real, y puede que no los sepas.

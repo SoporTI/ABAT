@@ -1,3 +1,7 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/Fk4KzlvArDU)
+
+
 Energía y Baterías en Dispositivos Móviles
 A veces, en lugar de tener una conexión a un enchufe todo el tiempo, queremos llevar la tecnología con nosotros. La tecnología móvil utiliza baterías recargables para contar con energía dondequiera que estemos. Los dispositivos recargables pueden tener un cargador externo para baterías extraíbles o un soporte, una estación o un cargador inalámbrico. Puedes recargar la batería de un teléfono posándolo sobre un dispositivo de carga inductiva. Genial, ¿cierto? Es una tecnología muy ingeniosa.
 

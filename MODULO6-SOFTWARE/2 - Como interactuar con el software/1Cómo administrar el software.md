@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/F_Bie999AH4)
+
 Programas, software y aplicaciones
 son sinónimos. Por ahora, vamos a seguir adelante y usaremos
 el término software para referirnos a alguno de estos. Ya vimos un resumen

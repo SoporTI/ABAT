@@ -1,3 +1,7 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/8jLE3N9e3VA)
+
+
 ¿No es interesantísima la historia de las computadoras? Me encanta retroceder en el tiempo y ver cómo llegamos a este momento fascinante en la computación.
 
 Ya diste los primeros pasos para desarrollar tu conocimiento básico sobre TI. Antes de ir más a fondo, querría tomarme un momento para presentarme.

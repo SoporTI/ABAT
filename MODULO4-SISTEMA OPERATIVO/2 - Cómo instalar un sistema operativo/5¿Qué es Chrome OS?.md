@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/jGMSPLIzyDM)
+
 Antes mencionamos que Chrome OS es un sistema operativo basado en Linux. Ahora, analicemos en qué difiere de otras distribuciones basadas en Linux. A diferencia de otros sistemas operativos, Chrome OS tiene un propósito principal: ser una forma segura y sencilla de interacción entre el usuario y la web.
 
 No hace tanto tiempo, la idea de tener un sistema operativo dedicado a ejecutar un navegador habría parecido extraña, como si estuviera subutilizando la computadora. Pero hoy, puedes hacer mucho tan solo a través de tu navegador web. Puedes comunicarte por correo electrónico, crear y compartir documentos, editar fotos e incluso conectarte de forma remota a otra computadora, y la lista sigue creciendo.

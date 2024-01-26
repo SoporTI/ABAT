@@ -1,3 +1,7 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/eXZ8ExCzXRk)
+
+
 # Bienvenido al curso uno, Aspectos básicos de la asistencia técnica
 
 Mi nombre es Kevin Limehouse y trabajo como especialista en soporte para plataformas que compilan DoubleClick en Google. Mirando hacia atrás, me doy cuenta de que mi pasión por la TI comenzó en un momento real, cuando yo tenía ocho años. Mis padres estaban a punto de tirar nuestra vieja computadora rota, pero logré convencer a mi mamá para que me permitiera quedármela. Recuerdo el momento en que, poco a poco, empecé a desarmarla; seguí yendo más a fondo y quitando los tornillos de cada pequeña pieza a la que podía echar mano y quedé enganchado.

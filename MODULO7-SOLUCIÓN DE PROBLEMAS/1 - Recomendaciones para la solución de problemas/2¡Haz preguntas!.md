@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/fMgz1lpoisw)
+
 Cómo responderías si te pregunto, "¿Sabes cuánto tardaría en llegar al banco?" Probablemente preguntarías, "¿Dónde estás?" "¿Dónde está el banco?" "¿Estás caminando, conduciendo,
 motando bicicleta?" Pero si sólo adivinas los detalles de mi
 situación para dirigirme al banco, tu respuesta sería un día tarde

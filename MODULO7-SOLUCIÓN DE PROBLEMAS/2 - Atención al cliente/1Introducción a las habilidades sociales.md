@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/DeTE3CtsZnw)
+
 La atención al cliente es una habilidad crítica
 en el soporte de TI, no puedo dejar de enfatizarlo. Puedes tener todos los conocimientos técnicos
 del mundo, pero si el usuario tuvo una mala experiencia en el proceso de lograr

@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/31AvTEt0Fn8)
+
 Hemos hablado brevemente sobre los
 protocolos de red que utilizan nuestros dispositivos para ayudar a nuestros paquetes a llegar de un destino a otro, pero ¿qué son? Se utilizan montones de protocolos de red y todos son necesarios para ayudarnos a conseguir
 que nuestros paquetes lleguen al lugar correcto. Piensa en los protocolos de red como un conjunto

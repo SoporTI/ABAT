@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/KZvRz7iu0pQ)
+
 Bien, ya tratamos las principales funciones de un **kernel**. Ahora, vamos a hablar de su último aspecto de importancia: cómo interactuamos las personas con él. Esto es lo que llamamos el **espacio del usuario**.
 
 Cuando interactuamos con un sistema operativo, queremos hacer ciertas funciones como crear archivos y carpetas, abrir aplicaciones, eliminar elementos, captas la idea. Hay dos formas en que podemos interactuar con nuestro SO: con una **shell** o con una **interfaz gráfica de usuario**. También hay algunas shells que usan interfaces gráficas de usuario, pero, en su mayor parte, trabajaremos con la interfaz de línea de comandos o shell **CLI**. Esto significa que usaremos comandos de texto.

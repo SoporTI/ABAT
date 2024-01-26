@@ -1,3 +1,7 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/77c49YgLkN4)
+
+
 Creo que me di cuenta de que podía dedicarme a esto, una carrera profesional como soporte de TI, en mi primer año de secundaria.
 Entonces, tomé una clase de introducción a las aplicaciones informáticas y ahí es cuando se aprende sobre muchas cosas, como los principios básicos de las computadoras. Y nuestro maestro siempre hablaba sobre cómo el mundo va en esta dirección. Estamos en 2001 y obtener este conocimiento fundamental a los 14, 15 años los va a ayudar muchísimo; ustedes están terminando la secundaria y por ingresar a la facultad y trata de conseguir un empleo real.
 

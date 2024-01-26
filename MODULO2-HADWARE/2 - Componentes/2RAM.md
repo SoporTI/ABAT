@@ -1,3 +1,7 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/qMpX-XT1Ph4)
+
+
 Hablemos de la RAM, la memoria a corto plazo de nuestras computadoras. Usamos la RAM para almacenar datos a los que queremos acceder rápidamente. Estos datos cambian todo el tiempo, por lo que no son permanentes. Casi toda la RAM es volátil, lo que significa que una vez que apagamos nuestras máquinas, los datos almacenados en la RAM se borran.
 
 Recuerda que nuestra computadora contiene programas. Para ejecutar un programa, necesitamos copiarlo en la RAM para que nuestra CPU pueda procesarlo. Cuando ves un nuevo teléfono o laptop que dice que tiene 16 gigas de RAM, eso significa que puede ejecutar hasta 16 gigas de programas, lo que indica que puede ejecutar muchos programas al mismo tiempo.

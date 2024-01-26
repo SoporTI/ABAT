@@ -1,3 +1,6 @@
+> [!TIP]  
+> [Ver video](https://youtu.be/FEhxz1EU1c0)
+
 El primer sistema operativo que vamos a instalar es Windows 10. Esta es la última versión en la familia de sistemas operativos de Windows. Si compras el software en las tiendas, viene en una unidad USB. Tengo Windows cargado en una unidad USB, Voy a comenzar, inserta la unidad e iniciala en un minuto.
 
 Pero primero, vamos a asegurarnos de que tenemos el orden de arranque de la BIOS UEFI configurado para que arranque desde la unidad USB. Dependiendo de lo que el fabricante del ordenador establezca, tendrás que pulsar la tecla F12 u otra para acceder a la configuración de la BIOS.
